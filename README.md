@@ -11,6 +11,14 @@ account creates a nice contributions calendar.
 [Ensure you configured NPM and NodeJS not to require `sudo` when installing
 packages globally](https://github.com/IonicaBizau/dotfiles#npm-config).
 
+brew --prefix
+```
+brew --prefix
+```
+```
+brew `--`prefix
+```
+
 ```js
 $ npm install -g gh-contributions
 ```
